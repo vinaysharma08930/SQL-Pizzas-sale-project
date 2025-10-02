@@ -70,7 +70,7 @@ JOIN Customers ON Orders.CustomerID = Customers.CustomerID;
 
 1. Clone the repository:
 
-git clone <repository_link>
+git clone <https://github.com/vinaysharma08930/SQL-Pizzas-sale-project/tree/main>
 
 2. Open your SQL client (MySQL, PostgreSQL, etc.).
 
